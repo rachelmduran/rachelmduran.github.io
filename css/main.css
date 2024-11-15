@@ -2,3 +2,8 @@
 {
    background-color: purple;
 }
+img
+{
+   display: block;
+   margin: auto;
+}
