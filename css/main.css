@@ -1,24 +1,25 @@
 :root
 {
-   background-color: rgb(50,29,112);
-   color: white;
+   background-color: rgb(210, 196, 245);
+   color: rgb(33, 13, 84);
 }
 img
 {
    display: block;
    margin: auto;
+   border: groove;
 }
 h1
 {
    font-size: 45px;
-   color: white;
+   color: rgb(33, 13, 84);
    text-align: center;
 }
 h2, h3, h4, h5, h6, h7
 {
-   color: white;
+   color: rgb(33, 13, 84);
 }
 a
 { 
-   color: white;
+   color: rgb(23, 13, 163);
 }
