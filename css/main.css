@@ -1,6 +1,7 @@
 :root
 {
    background-color: rgb(50,29,112);
+   color: white;
 }
 img
 {
@@ -13,3 +14,8 @@ h1
    color: white;
    text-align: center;
 }
+h2, h3, h4, h5, h6, h7
+{
+   color: white;
+}
+   
