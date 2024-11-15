@@ -18,12 +18,15 @@ h1
 h2, h3, h4, h5, h6, h7
 {
    color: rgb(33, 13, 84);
+   text-align: center;
 }
 a
 { 
    color: rgb(23, 13, 163);
+   text-align: center;
 }
 li
 { 
    color: rgb(143, 11, 130);
+   text-align: center;
 }
