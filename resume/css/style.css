@@ -30,25 +30,3 @@ li
    color: rgb(143, 11, 130);
    text-align: center;
 }
-
- <style>
-            img
-            {
-                height: 100px;
-            }
-            td, th
-            {
-                border: 3px dashed rgb(206,124,153);
-                padding: 15px;
-                
-            }
-            table
-            {
-                border-collapse: collapse;
-            }
-            th
-            {
-                background-color: rgb(210,190,250);
-                font-size: 18px;
-            }
-        </style>
